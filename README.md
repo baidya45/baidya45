@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baidya45&label=Profile%20views&color=0e75b6&style=flat" alt="baidya45" /> </p>
 
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baidya45" alt="baidya45" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/i_am_baidya@45" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_baidya@45?logo=twitter&style=for-the-badge" alt="i_am_baidya@45" /></a> </p>
 
@@ -21,6 +21,8 @@
 - 📫 How to reach me **baidyadey11@gmail.com**
 
 - ⚡ Fun fact **I try to be funny**
+
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baidya45" alt="baidya45" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
