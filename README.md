@@ -1,3 +1,5 @@
+
+<img align="top" width="1000" height="200" src="https://github.com/baidya45/baidya45/blob/main/Information-technology-big-data-collection-complex.jpg">
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 <h1 align="center">Hi 👋, I'm Baidyanath Dey</h1>
 <h3 align="center">I am a CSE undergraduate and learning full stack web dev and looking for internships to work with</h3>
