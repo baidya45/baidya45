@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@i_baidya" target="blank"><img src="https://img.shields.io/twitter/follow/@i_baidya?logo=twitter&style=for-the-badge" alt="@i_baidya" /></a> </p>
 
-- 📫 How to reach me **baidyadey11@gmail.com**
+- 📫 How to reach me  **baidyadey11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
