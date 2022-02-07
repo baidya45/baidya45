@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baidya45&label=Profile%20views&color=0e75b6&style=flat" alt="baidya45" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baidya45" alt="baidya45" /></a> </p>
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baidya45" alt="baidya45" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/i_am_baidya@45" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_baidya@45?logo=twitter&style=for-the-badge" alt="i_am_baidya@45" /></a> </p>
 
@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/i_am_baidya@45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_am_baidya@45" height="30" width="40" /></a>
+<a href="https://twitter.com/i_am_baidya@45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_am_baidya@45" height="30" width="40" /></a><br>
 <a href="https://linkedin.com/in/baidyanath dey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baidyanath dey" height="30" width="40" /></a>
 <a href="https://fb.com/baidyanath dey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="baidyanath dey" height="30" width="40" /></a>
 <a href="https://instagram.com/the bluster diary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the bluster diary" height="30" width="40" /></a>
